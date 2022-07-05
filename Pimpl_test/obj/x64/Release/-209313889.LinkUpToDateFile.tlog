@@ -1,0 +1,1 @@
+g++ -o "/home/laitao/projects/Pimpl_test/bin/x64/Release/Pimpl_test.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/laitao/projects/Pimpl_test/obj/x64/Release/Book.o /home/laitao/projects/Pimpl_test/obj/x64/Release/main.o
